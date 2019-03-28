@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CryptoTracker</string>
+
+    <string-array name="tickers">
+        <item>BTC</item>
+        <item>BTG</item>
+        <item>DASH</item>
+        <item>XRP</item>
+        <item>ETH</item>
+    </string-array>
+
+    <string-array name="currencyChoice">
+        <item>USD</item>
+        <item>INR</item>
+        <item>CAD</item>
+    </string-array>
+</resources>
